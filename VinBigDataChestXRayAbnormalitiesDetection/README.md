@@ -12,3 +12,5 @@
 * Step 1: Download necessary datasets for training from public links (noted in input folder)
 * Step 2: Change paths in each notebooks based on your environment
 * Step 3: Start training
+* Step 4: Infer each trained model
+* Step 5: Ensemble inferences in ensemble folder
