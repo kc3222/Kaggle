@@ -6,7 +6,7 @@
 **Final model weights:** https://www.kaggle.com/kc3222/vinbigdata-final-models
 
 **Final model submissions:**
-* yolov5x_fold0_1_2_3_4_768_conf_0.01_d2_r101fpn3x_054999_vfnet_r101fpn_8020_fold0_1_2_3_4_wbf_skbthr_0.03_v45_submission.csv: 0.260 Public Leaderboard & 0.293 Private Leaderboard
+* ensemble/yolov5x_fold0_1_2_3_4_768_conf_0.01_d2_r101fpn3x_054999_vfnet_r101fpn_8020_fold0_1_2_3_4_wbf_skbthr_0.03_v45_submission.csv: 0.260 Public Leaderboard & 0.293 Private Leaderboard
 
 **How to run:**
 * Step 1: Download necessary datasets for training from public links (noted in input folder)
