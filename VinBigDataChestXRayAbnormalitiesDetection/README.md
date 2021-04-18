@@ -7,6 +7,8 @@ Final model weights: https://www.kaggle.com/kc3222/vinbigdata-final-models
 
 How to run:
 
-* Step 1: Download necessary datasets for training from public links
+* Step 1: Download necessary datasets for training from public links (noted in input folder)
 
-* Step 2: Change paths in each notebooks based on your paths
+* Step 2: Change paths in each notebooks based on your environment
+
+* Step 3: Start training
