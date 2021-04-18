@@ -1,14 +1,14 @@
 # Kaggle VinBigData Chest X-Ray Abnormalities Detection
 ## 10th-place Solution Source Code
 
-**Discussion**: https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection/discussion/229629
+**Discussion:** https://www.kaggle.com/c/vinbigdata-chest-xray-abnormalities-detection/discussion/229629
 
-**Final model weights**: https://www.kaggle.com/kc3222/vinbigdata-final-models
+**Final model weights:** https://www.kaggle.com/kc3222/vinbigdata-final-models
 
-**How to run**:
+**Final model submissions:**
+* yolov5x_fold0_1_2_3_4_768_conf_0.01_d2_r101fpn3x_054999_vfnet_r101fpn_8020_fold0_1_2_3_4_wbf_skbthr_0.03_v45_submission.csv: 0.260 Public Leaderboard & 0.293 Private Leaderboard
 
+**How to run:**
 * Step 1: Download necessary datasets for training from public links (noted in input folder)
-
 * Step 2: Change paths in each notebooks based on your environment
-
 * Step 3: Start training
