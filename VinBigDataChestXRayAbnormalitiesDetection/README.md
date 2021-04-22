@@ -8,7 +8,7 @@
 **Final model submissions:**
 * ensemble/yolov5x_fold0_1_2_3_4_768_conf_0.01_d2_r101fpn3x_054999_vfnet_r101fpn_8020_fold0_1_2_3_4_wbf_skbthr_0.03_v45_submission.csv: 0.260 Public Leaderboard & 0.293 Private Leaderboard
 
-**How to run:**
+**How to rerun:**
 * Step 1: Download necessary datasets for training from public links (noted in input folder)
 * Step 2: Change paths in each notebooks based on your environment
 * Step 3: Start training
@@ -18,3 +18,4 @@
 **Inference notebooks**
 * yolov5: https://www.kaggle.com/kc3222/final-vinbigdata-cxr-ad-yolov5-v4-0-infer
 * vfnet: https://www.kaggle.com/kc3222/mmdet-pytorch-framework-infer-vfnet
+* fasterrcnn: https://www.kaggle.com/kc3222/final-vinbigdata-detectron2-prediction
