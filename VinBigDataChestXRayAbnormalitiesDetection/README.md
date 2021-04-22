@@ -17,3 +17,4 @@
 
 **Inference notebooks**
 * yolov5: https://www.kaggle.com/kc3222/final-vinbigdata-cxr-ad-yolov5-v4-0-infer
+* vfnet: https://www.kaggle.com/kc3222/mmdet-pytorch-framework-infer-vfnet
