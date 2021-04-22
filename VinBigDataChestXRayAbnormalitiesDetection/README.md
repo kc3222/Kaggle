@@ -14,3 +14,6 @@
 * Step 3: Start training
 * Step 4: Infer each trained model
 * Step 5: Ensemble inferences in ensemble folder
+
+**Inference notebooks**
+* yolov5: https://www.kaggle.com/kc3222/final-vinbigdata-cxr-ad-yolov5-v4-0-infer
