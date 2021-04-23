@@ -19,3 +19,4 @@
 * yolov5: https://www.kaggle.com/kc3222/final-vinbigdata-cxr-ad-yolov5-v4-0-infer
 * vfnet: https://www.kaggle.com/kc3222/mmdet-pytorch-framework-infer-vfnet
 * fasterrcnn: https://www.kaggle.com/kc3222/final-vinbigdata-detectron2-prediction
+* 2 class filter for yolov5 and vfnet (inference for fasterrcnn already has 2 class filter): https://www.kaggle.com/kc3222/final-vinbigdata-2-class-filter
