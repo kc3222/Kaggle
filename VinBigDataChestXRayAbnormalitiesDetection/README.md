@@ -20,3 +20,7 @@
 * vfnet: https://www.kaggle.com/kc3222/mmdet-pytorch-framework-infer-vfnet
 * fasterrcnn: https://www.kaggle.com/kc3222/final-vinbigdata-detectron2-prediction
 * 2 class filter for yolov5 and vfnet (inference for fasterrcnn already has 2 class filter): https://www.kaggle.com/kc3222/final-vinbigdata-2-class-filter
+
+**How to reproduce final submissions:**
+* Step 1: Download outputs from yolov5, vfnet, fasterrcnn inference notebooks into /ensemble/model_inferences/
+* Step 2: Run merge_bboxes_v45.py
