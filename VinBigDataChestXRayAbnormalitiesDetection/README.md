@@ -24,5 +24,5 @@
 **How to reproduce final submissions:**
 * Step 1: Download outputs from yolov5, vfnet, fasterrcnn inference notebooks into /ensemble/model_inferences/
 * Step 2: Run 2 class filter for each output and download the results into /ensemble/model_inferences/
-* You can skip step 1 and 2 by downloading the outputs of 2-class filter notebook.
+* You can skip step 1 and 2 by downloading the outputs of the 2-class filter notebook and the outputs of the fasterrcnn notebook.
 * Step 3: Run merge_bboxes_v45.py (rename files if neccessary)
