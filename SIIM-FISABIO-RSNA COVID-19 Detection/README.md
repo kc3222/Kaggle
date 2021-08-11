@@ -15,3 +15,4 @@
 
 **How to reproduce final submissions:**
 * Step 1: Run the notebook in Final Inference folder on Kaggle
+* Kaggle public final submission: https://www.kaggle.com/kc3222/siim-cov19-efnv2-vit-2-clsx2-effdet-yolov5-cascade
